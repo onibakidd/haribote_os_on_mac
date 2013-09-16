@@ -14,6 +14,10 @@
 [(nasm_os_4)](http://pinako.blog33.fc2.com/blog-entry-50.html)
 
 
+[(BIOS)](http://community.osdev.info/?(AT)BIOS)
+[(MEMORY MAP)](http://community.osdev.info/?(AT)memorymap)
+
+
 ### 使用するツール・言語
 bvi <= viコマンドが使えるバイナリエディタ  
 
